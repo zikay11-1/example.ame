@@ -1,0 +1,2 @@
+# example.ame
+test foot
